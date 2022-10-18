@@ -1,6 +1,7 @@
 # elasticflow
 Forked form gitee.com/qytang/ElasticFlow
 
+![image](https://user-images.githubusercontent.com/12579522/196368700-b2d673c4-daba-4c89-a383-dc1796d968bd.png)
 
 usage:
 ```
